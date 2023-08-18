@@ -1,0 +1,8 @@
+.vs
+__pycache__
+
+*.bak
+*.ase
+*.aseprite
+*.gif
+
