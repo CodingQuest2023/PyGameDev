@@ -30,6 +30,9 @@
     <Compile Include="ClassLevel.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ClassSpriteSheet.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Config.py" />
     <Compile Include="_01_BeesInTheSky.py" />
   </ItemGroup>

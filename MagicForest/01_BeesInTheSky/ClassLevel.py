@@ -7,10 +7,11 @@ from ClassBackground import Background
 class Level():
     def __init__(self, displaySurface):
 
+        # Instantiate classes
         self.background = Background()
 
-        self.bee1 = Bee((200, 200))
-        self.bee2 = Bee((300, 300))
+        self.bee1 = Bee((200, 200), moveRight = True)
+        self.bee2 = Bee((300, 300), moveRight = False)
 
         self.displaySurface = displaySurface
 
