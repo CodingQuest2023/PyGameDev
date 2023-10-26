@@ -9,6 +9,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "02_AddingTheHero", "02_Addi
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "03_SpriteCollisions", "03_SpriteCollisions\03_SpriteCollisions.pyproj", "{E562544F-F100-4AD2-AECF-88097B9A6632}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "04_LevelLoading", "04_LevelLoading\04_LevelLoading.pyproj", "{D963F6B8-800B-494D-9138-D57BB4516BC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,8 @@ Global
 		{2D9E3FE5-7402-416E-B1AA-117CE3C8040F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E562544F-F100-4AD2-AECF-88097B9A6632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E562544F-F100-4AD2-AECF-88097B9A6632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D963F6B8-800B-494D-9138-D57BB4516BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D963F6B8-800B-494D-9138-D57BB4516BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
